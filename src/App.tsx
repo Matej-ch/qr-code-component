@@ -7,7 +7,7 @@ function App() {
     const [url, setUrl] = useState<string>('https://www.frontendmentor.io/home')
 
     return (
-        <div className="qrcode-container">
+        <div className="qrcode-container" role="main">
             <div className={'image-container'}>
                 <QRCodeSVG value={url} bgColor={'transparent'} fgColor={'white'}/>
             </div>
