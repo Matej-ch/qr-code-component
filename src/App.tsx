@@ -1,14 +1,10 @@
-import {useEffect, useState} from 'react'
+import {useState} from 'react'
 import './App.scss'
 import {QRCodeSVG} from 'qrcode.react';
 
 function App() {
 
     const [url, setUrl] = useState<string>('https://www.frontendmentor.io/home')
-
-    useEffect(() => {
-        console.log('useEffect ran. count is: ', url);
-    }, [url]);
 
     return (
         <div className="qrcode-container">
