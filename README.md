@@ -1,7 +1,7 @@
 # Frontend Mentor - Qr code component solution
 
 This is a solution to
-the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
+the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
@@ -21,7 +21,8 @@ the [Advice generator app challenge on Frontend Mentor](https://www.frontendment
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice,
+feel free to give it a go.
 
 ### Screenshot
 
