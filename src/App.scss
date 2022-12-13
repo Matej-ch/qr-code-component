@@ -1,0 +1,39 @@
+.qrcode-container {
+
+  background-color: var(--component-bg);
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  text-align: center;
+
+  .image-container {
+    background-color: #2c7dfa;
+    padding: 1.5rem 0.5rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .url-input-container {
+    padding: 0.75rem 0;
+  }
+
+  input {
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+  }
+
+  h1 {
+    color: var(--header-color);
+    font-weight: 700;
+    line-height: 36px;
+    font-size: 1.75rem;
+  }
+
+  p {
+    color: var(--paragraph-color);
+    font-weight: 400;
+    padding: 1rem 0;
+  }
+}
